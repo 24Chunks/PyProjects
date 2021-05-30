@@ -1,0 +1,3003 @@
+C:\Users\alber\Desktop\Learning Python\WAR CARD GAME>main.py
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+|♠J    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+|♠2    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+|♦7    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+|♥3    | |♣9    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+|♥6    | |♣2    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+|♥6    | |♦3    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+|♣4    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+|♥9    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+|♥2    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+|♦Q    | |♣4    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+|♣Q    | |♥2    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+|♣Q    | |♣9    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+|♠2    | |♦9    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+|♠9    | |♦7    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+|♥K    | |♣3    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+|♣7    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+|♥9    | |♥4    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+|♦3    | |♦J    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+|♣2    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+|♥6    | |♣5    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+|♣Q    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+|♠8    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  27
+Player Carlos hand Size:  21
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+|♠2    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+|♥2    | |♠4    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+|♥9    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+|♠8    | |♦3    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+|♥5    | |♣2    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+|♣3    | |♦9    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+|♣5    | |♦8    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+|♣9    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+|♠J    | |♣9    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+|♠J    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+|♣7    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+|♥K    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+|♠8    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+|♠9    | |♥7    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+|♣9    | |♥3    |
+ ------   ------
+Player Sagui Hand Size:  27
+Player Carlos hand Size:  21
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+|♦3    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+|♥3    | |♦J    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+|♥6    | |♥2    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+|♥K    | |♦J    |
+ ------   ------
+Player Sagui Hand Size:  27
+Player Carlos hand Size:  21
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  17
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+|♠3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♦4    | |♥J    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+|♣9    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+|♠Q    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+|♣Q    | |♠4    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+|♥6    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+|♣2    | |♠7    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+|♦Q    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+|♠4    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+|♦4    | |♦8    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+|♥2    | |♦3    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+|♦Q    | |♥3    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+|♦Q    | |♦9    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+|♦9    | |♣J    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+|♣K    | |♦8    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+|♠Q    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+|♦J    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+|♥7    | |♣3    |
+ ------   ------
+Player Sagui Hand Size:  26
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+ ------   ------
+Player Sagui Hand Size:  25
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+|♣6    | |♠7    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+|♦Q    | |♠7    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+|♣7    | |♠8    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+|♣4    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+|♦5    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+|♥8    | |♠3    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  20
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+|♥5    | |♣5    | |?     | |?     | |?     | |?     | |?     | |?     | |♥3    | |♠5    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+|♣Q    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+|♣Q    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+|♠3    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+|♦J    | |♥3    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+|♦8    | |♣7    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+|♥5    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+|♦4    | |♠3    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+|♦J    | |♥2    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+|♦Q    | |♠8    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+|♠3    | |♣J    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+|♠6    | |♣4    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+|♦6    | |♣K    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+|♦J    | |♣2    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+|♥2    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+|♣4    | |♠3    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+|♠9    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+|♦2    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+|♦J    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+|♣4    | |♠9    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+|♣3    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+|♦8    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+|♦4    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+|♠2    | |♦6    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+|♦8    | |♥2    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+|♣K    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+|♣9    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+|♥2    | |♣4    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+|♠6    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+|♣6    | |♣5    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  14
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+|♥8    | |♣8    | |?     | |?     | |?     | |?     | |?     | |?     | |♣Q    | |♠4    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+|♥4    | |♥7    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+|♥Q    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+|♥6    | |♠5    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+|♣5    | |♣J    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+|♠7    | |♦6    |
+ ------   ------
+Player Sagui Hand Size:  24
+Player Carlos hand Size:  24
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+|♠2    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+|♦8    | |♦J    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+|♦5    | |♦8    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+|♣Q    | |♣5    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+|♦7    | |♦2    |
+ ------   ------
+Player Sagui Hand Size:  23
+Player Carlos hand Size:  25
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  22
+Player Carlos hand Size:  26
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  22
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+|♣5    | |♦5    | |?     | |?     | |?     | |?     | |?     | |?     | |♦K    | |♥K    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+|♥6    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+|♣K    | |♥4    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+|♣7    | |♦5    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+|♦Q    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+|♠7    | |♣5    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+|♣Q    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+|♦K    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+|♥9    | |♣J    |
+ ------   ------
+Player Sagui Hand Size:  19
+Player Carlos hand Size:  29
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+|♦Q    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+|♣8    | |♠6    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+|♠6    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  20
+Player Carlos hand Size:  28
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+|♦Q    | |♥8    |
+ ------   ------
+Player Sagui Hand Size:  21
+Player Carlos hand Size:  27
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  23
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+|♥3    | |♣3    | |?     | |?     | |?     | |?     | |?     | |?     | |♠7    | |♦8    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+|♠4    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+|♥4    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  14
+Player Carlos hand Size:  34
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+|♥8    | |♣3    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+|♦K    | |♣K    |
+ ------   ------
+Player Sagui Hand Size:  14
+Player Carlos hand Size:  34
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+|♣9    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+|♠8    | |♥4    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+|♥8    | |♦J    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+|♣8    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+|♥6    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+|♣8    | |♥7    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+|♥6    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+|♣7    | |♦8    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+|♦5    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+|♣K    | |♣Q    |
+ ------   ------
+Player Sagui Hand Size:  14
+Player Carlos hand Size:  34
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+|♥7    | |♣Q    |
+ ------   ------
+Player Sagui Hand Size:  13
+Player Carlos hand Size:  35
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+|♦7    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  12
+Player Carlos hand Size:  36
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  8
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+|♦4    | |♠4    | |?     | |?     | |?     | |?     | |?     | |?     | |♦Q    | |♦7    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+|♥7    | |♠9    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+|♠Q    | |♥8    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+|♣9    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  18
+Player Carlos hand Size:  30
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+|♣8    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  17
+Player Carlos hand Size:  31
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+|♣5    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  16
+Player Carlos hand Size:  32
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+|♥5    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  15
+Player Carlos hand Size:  33
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+|♥8    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  14
+Player Carlos hand Size:  34
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+|♠7    | |♣8    |
+ ------   ------
+Player Sagui Hand Size:  13
+Player Carlos hand Size:  35
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+|♥4    | |♣K    |
+ ------   ------
+Player Sagui Hand Size:  12
+Player Carlos hand Size:  36
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+|♦4    | |♠J    |
+ ------   ------
+Player Sagui Hand Size:  11
+Player Carlos hand Size:  37
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+|♦2    | |♥4    |
+ ------   ------
+Player Sagui Hand Size:  10
+Player Carlos hand Size:  38
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+|♠Q    | |♦4    |
+ ------   ------
+Player Sagui Hand Size:  11
+Player Carlos hand Size:  37
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+|♠3    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  10
+Player Carlos hand Size:  38
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+|♣3    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  9
+Player Carlos hand Size:  39
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+|♣6    | |♥3    |
+ ------   ------
+Player Sagui Hand Size:  10
+Player Carlos hand Size:  38
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+|♦K    | |♥J    |
+ ------   ------
+Player Sagui Hand Size:  11
+Player Carlos hand Size:  37
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+|♣6    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  10
+Player Carlos hand Size:  38
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+|♥3    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  9
+Player Carlos hand Size:  39
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+|♠4    | |♥Q    |
+ ------   ------
+Player Sagui Hand Size:  8
+Player Carlos hand Size:  40
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+|♦7    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  7
+Player Carlos hand Size:  41
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+|♥J    | |♥5    |
+ ------   ------
+Player Sagui Hand Size:  8
+Player Carlos hand Size:  40
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+|♥J    | |♠3    |
+ ------   ------
+Player Sagui Hand Size:  9
+Player Carlos hand Size:  39
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+|♠8    | |♥2    |
+ ------   ------
+Player Sagui Hand Size:  10
+Player Carlos hand Size:  38
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     |
+ ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  6
+Player Carlos hand Size:  34
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+|♥2    | |♣2    | |?     | |?     | |?     | |?     | |?     | |?     | |♠3    | |♣5    |
+ ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+Player Sagui Hand Size:  5
+Player Carlos hand Size:  43
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+|♣9    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+|♦Q    | |♦3    |
+ ------   ------
+Player Sagui Hand Size:  5
+Player Carlos hand Size:  43
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+|♦Q    | |♠K    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+|♦3    | |♣Q    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+|♥5    | |♠4    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+|♥5    | |♥3    |
+ ------   ------
+Player Sagui Hand Size:  5
+Player Carlos hand Size:  43
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+|♠4    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+|♥3    | |♠6    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+|♥5    | |♥6    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+|♠8    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+|♠8    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+|♥J    | |♣5    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+|♠2    | |♠7    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+|♥J    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+|♥J    | |♠9    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+|♥J    | |♠8    |
+ ------   ------
+Player Sagui Hand Size:  5
+Player Carlos hand Size:  43
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+|♠8    | |♥9    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+|♣5    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+|♠2    | |♣K    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+|♠9    | |♥K    |
+ ------   ------
+Player Sagui Hand Size:  1
+Player Carlos hand Size:  47
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+|♥J    | |♣6    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+|♣6    | |♠3    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+|♣6    | |♦K    |
+ ------   ------
+Player Sagui Hand Size:  2
+Player Carlos hand Size:  46
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+|♥J    | |♠7    |
+ ------   ------
+Player Sagui Hand Size:  3
+Player Carlos hand Size:  45
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+|♥J    | |♥4    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+|♠3    | |♠2    |
+ ------   ------
+Player Sagui Hand Size:  5
+Player Carlos hand Size:  43
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+|♠3    | |♣7    |
+ ------   ------
+Player Sagui Hand Size:  4
+Player Carlos hand Size:  44
+
+Player Sagui: are you ready? (y/n)
+Player Carlos: are you ready? (y/n)
+ ------   ------
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+|♥4    | |♣4    |
+ ------   ------
+Sagui HAND SIZE 0 :'(
+Carlos HAND SIZE 48
