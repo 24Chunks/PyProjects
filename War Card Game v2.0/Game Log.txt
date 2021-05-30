@@ -1,4 +1,7 @@
-C:\Users\alber\Desktop\Learning Python\WAR CARD GAME>main.py
+IGNORE THIS, THIS WAS JUST FOR TESTING PURPOSES
+
+
+
 Player Sagui Hand Size:  24
 Player Carlos hand Size:  24
 
