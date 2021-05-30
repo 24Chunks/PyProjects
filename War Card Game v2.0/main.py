@@ -57,8 +57,8 @@ def render_screen(sc, p1, p2, temp_p, c):
         print(f"{temp_p.name} JUST GOT ADDED {c} CARDS!")
         print()
     # print(f"Succesfully Added {n} cards to {p}!") THIS FEATURE WILL BE ADDED LATER
-    print(f"{p1.name}(s) Hand Size: ", p1.hand_size())
-    print(f"{p2.name}(s) Hand Size: ", p2.hand_size())
+    print(f"{p1.name}'s Hand Size: ", p1.hand_size())
+    print(f"{p2.name}'s' Hand Size: ", p2.hand_size())
     print()
 
 
@@ -113,8 +113,8 @@ def Game():
     if in_:
         p2.name = in_
 
-    print(f"Player {p1.name} Hand Starting Size: ", p1.hand_size())
-    print(f"Player {p2.name} Hand Starting Size: ", p2.hand_size())
+    print(f"{p1.name} Starting Hand Size: ", p1.hand_size())
+    print(f"{p2.name} Starting Hand Size: ", p2.hand_size())
     print()
 
     while not determine_winner(p1, p2, d):
