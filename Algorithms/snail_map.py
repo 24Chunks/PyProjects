@@ -40,7 +40,7 @@ def func(snail_map):
         if dir == "UP" and snail_map:
             y = len(snail_map) - 1
             while y >= 0:
-                output.append(l[y][x])
+                output.append(snail_map[y][x])
                 del snail_map[y][x]
                 y -= 1
             dir = "RIGHT"
